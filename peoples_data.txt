@@ -1,0 +1,7 @@
+
+Uniq Code : 4854 for sid
+Name : sid
+Age : 24
+Gender : male
+Qualification : be
+mail_id : ef
