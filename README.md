@@ -1,0 +1,1 @@
+In this project, the User can insert data and after entering all data user will get a unique code to access the data, User can read all data, user can access data by unique code, and can exit from the service
